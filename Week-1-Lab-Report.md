@@ -8,3 +8,7 @@ Once you're there, your screen should look like the picture below.
 ![Image](vscode1.jpg)
 
 After this, if you're on a computer running a Windows operating system, click the install button and you're good to go. If you're on any other OS such as Mac or Linux, click the drop down arrow next to the Windows Install button and options for your corresponding OS to install VScode should appear.
+
+When the installation of VScode setup is done downloading, click on it and follow the setup instructions as prompted by the application to install the application. 
+Once your installation is done, open VScode and it should look very similar to the picture below but with maybe a different color on the background.
+![Image](vscode2.jpg)
