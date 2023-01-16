@@ -28,6 +28,8 @@ Once you're signed in, you should be in a page similar to the one below.
 Although you were not asked for any password, it's important that you know what it is as it will be used to log into your ieng6 account. In the event that you don't remember it, click the course specific account in which you're trying to log into and you will be brought into this page below. 
 ![Image](reset.jpg)
 
+Click the change your password button and follow the given instructions to successfully change your password.
+
 For this example, well be using the CSE15L class in which John Doe's username is cse15lwi23doe . 
 
 After figuring out your corresponding username, you're going to click the Terminal option then new Terminal on VScode which should be along the top bar. Once the terminal is opened up, you want to go ahead and type the username for whatever you class may be followed by @ieng.ucsd.edu . For example John Doe would type cse15lwi23doe@ieng6.ucsd.edu in the terminal.Your terminal should look like the one below and you should be prompted with the same message.
