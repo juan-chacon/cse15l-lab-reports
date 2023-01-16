@@ -20,6 +20,7 @@ Before we begin with this step, were going to find the course specific account t
 
 Once you're on this website, you're going to enter your username which should be the first part of your UCSD email. In the picture below we use the example email of johndoe@ucsd.edu. 
 After entering your username, you'll have to enter your student ID number which begins with the letter A and is followed by a set of numbers, in the example below, John's student ID is A12345678.
+
 ![Image](accountlookup.jpg)
 
 Once you're signed in, you should be in a page similar to the one below. 
