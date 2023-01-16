@@ -5,6 +5,6 @@
 The first thing you're going to want to do is head on over to the Visual Studio website which is https://code.visualstudio.com/ 
 
 Once you're there, your screen should look like the picture below. 
-![Image](vscode1.jpg)
+![Image](vscode1.png)
 
 After this, if you're on a computer running a Windows operating system, click the install button and you're good to go. If you're on any other OS such as Mac or Linux, click the drop down arrow next to the Windows Install button and options for your corresponding OS to install VScode should appear.
