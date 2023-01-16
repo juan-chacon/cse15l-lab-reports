@@ -26,7 +26,8 @@ After entering your username, you'll have to enter your student ID number which 
 Once you're signed in, you should be in a page similar to the one below. 
 ![Image](account.jpg)
 
-Although you were not asked for any password, it's important that you know what it is as it will be used to log into your ieng6 account. In the event that you don't remember it, click the course specific account in which you're trying to log into and you will be brought into this page below. 
+Although you were not asked for any password, it's important that you know what it is as it will be used to log into your ieng6 account. In the event that you don't remember it, click the course specific account in which you're trying to log into and you will be brought into this page 
+
 ![Image](reset.jpg)
 
 Click the change your password button and follow the given instructions to successfully change your password.
