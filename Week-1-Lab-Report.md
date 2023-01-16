@@ -37,4 +37,6 @@ After figuring out your corresponding username, you're going to click the Termin
 ![Image](terminalnew.jpg)
 
 Once you type yes into the terminal, you will then be prompted to type in your password. For privacy reasons your password will not be displayed as you're typing it into the terminal which is why its important that you remember it. 
+
+After entering your password and hitting enter, you'll be brought into this page below.
 ![Image](login.jpg)
