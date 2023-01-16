@@ -3,4 +3,6 @@
   
 ## Part 1 - Installing Visual Studio Code
 The first thing you're going to want to do is head on over to the Visual Studio website which is https://code.visualstudio.com/ 
+Once you're there, your screen should look like the picture below. 
+![Image](VSCODE.png)
 
