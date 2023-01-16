@@ -27,5 +27,5 @@ Once you're signed in, you should be in a page similar to the one below.
 
 For this example, well be using the CSE15L class in which John Doe's username is cse15lwi23doe.
 
-After figuring out your corresponding username, you're going to click the Terminal option then new Terminal on VScode which should be along the top bar. Once the terminal is opened up, you want to go ahead and type the username for whatever you class may be. Your terminal should look like the one below and you should be prompted with the same message.
+After figuring out your corresponding username, you're going to click the Terminal option then new Terminal on VScode which should be along the top bar. Once the terminal is opened up, you want to go ahead and type the username for whatever you class may be followed by @ieng.ucsd.edu . For example John Doe would type cse15lwi23doe in the terminal. Your terminal should look like the one below and you should be prompted with the same message.
 ![Image](terminalnew.jpg)
