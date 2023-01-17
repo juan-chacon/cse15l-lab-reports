@@ -24,6 +24,7 @@ After entering your username, you'll have to enter your student ID number which 
 ![Image](accountlookup.jpg)
 
 Once you're signed in, you should be in a page similar to the one below in which John Doe's course specific username for CSE15 is cse15lwi23doe.
+
 ![Image](account.jpg)
 
 Although you were not asked for any password, it's important that you know what it is as it will be used to log into your ieng6 account. In the event that you don't remember it, click the course specific account in which you're trying to log into and you will be brought into this page. 
@@ -36,9 +37,9 @@ Click the ***change your password*** button and follow the given instructions to
 After figuring out your corresponding username, you're going to click the Terminal option then new Terminal on VScode which should be along the top bar. Once the terminal is opened up, you want to go ahead and type the username for whatever you class may be followed by @ieng.ucsd.edu. For example John Doe would type cse15lwi23doe@ieng6.ucsd.edu in the terminal. Your terminal should look like the one below and you should be prompted with the same message.
 ![Image](terminalnew.jpg)
 
-Once you type yes into the terminal, you will then be prompted to type in your password. For privacy reasons your password will not be displayed as you're typing it into the terminal which is why its important that you remember it. 
+Once you type yes into the terminal, you will then be prompted to type in your password. For privacy reasons your password will not be displayed as you're typing it into the terminal, which is why its important that you remember it. 
 
-After entering your password and hitting enter, you'll be brought into this below which means that you successfully signed in.
+After typing in your password and hitting enter, you'll be brought into this below which means that you successfully signed in.
 ![Image](login.jpg)
 
 ## Part 3 - Testing Commands
