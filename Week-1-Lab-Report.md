@@ -30,7 +30,7 @@ Although you were not asked for any password, it's important that you know what 
 
 ![Image](reset.jpg)
 
-Click the change your password button and follow the given instructions to successfully change your password.
+Click the ***change your password*** button and follow the given instructions to successfully change your password.
 
 
 After figuring out your corresponding username, you're going to click the Terminal option then new Terminal on VScode which should be along the top bar. Once the terminal is opened up, you want to go ahead and type the username for whatever you class may be followed by @ieng.ucsd.edu. For example John Doe would type cse15lwi23doe@ieng6.ucsd.edu in the terminal. Your terminal should look like the one below and you should be prompted with the same message.
