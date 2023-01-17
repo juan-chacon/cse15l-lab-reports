@@ -23,7 +23,7 @@ After entering your username, you'll have to enter your student ID number which 
 
 ![Image](accountlookup.jpg)
 
-Once you're signed in, you should be in a page similar to the one below in which John Doe's username is cse15lwi23doe .
+Once you're signed in, you should be in a page similar to the one below in which John Doe's course specific username for CSE15 is cse15lwi23doe .
 ![Image](account.jpg)
 
 Although you were not asked for any password, it's important that you know what it is as it will be used to log into your ieng6 account. In the event that you don't remember it, click the course specific account in which you're trying to log into and you will be brought into this page. 
