@@ -16,7 +16,7 @@ Once your installation is done, open VScode and it should look very similar to t
 And thats it, we're now done with installing VScode!
 
 ## Part 2 - Remotely Connecting
-Before we begin with this step, were going to find the course specific account that you're trying to connect to. To get started with this step we're going to first head into https://sdacs.ucsd.edu/~icc/index.php 
+Before we begin with this step, were going to find the course specific account that you're trying to connect to. To get started with this step we're going to first head into [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php) 
 
 Once you're on this website, you're going to enter your username which should be the first part of your UCSD email. In the picture below we use the example email of johndoe@ucsd.edu. 
 After entering your username, you'll have to enter your student ID number which begins with the letter A and is followed by a set of numbers, in the example below, John's student ID is A12345678.
