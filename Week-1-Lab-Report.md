@@ -50,7 +50,7 @@ For example, if you type ls <code> -lat</code> and everything is set up accordin
 ![Image](command.jpg)
 
 
-Another couple of commands you could try are **pwd** and **cd** . The command **pwd** prints out the working directory and **cd** prints out the current directory in which you are in. The picture below shows both examples.
+Another couple of commands you could try are <code>**pwd**</code> and **cd** . The command **pwd** prints out the working directory and **cd** prints out the current directory in which you are in. The picture below shows both examples.
 
 ![Image](tester.jpg)
 
