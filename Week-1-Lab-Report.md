@@ -43,7 +43,7 @@ After typing in your password and hitting enter, you'll be brought into this bel
 ![Image](login.jpg)
 
 ## Part 3 - Testing Commands
-For the final step, we'll be typing some of the commands learned in CSE15L to verify that everything is working. Some commands you can run are ==cd==, == cd~ ==, =ls=, =ls= <mark>-lat</mark>, etc..
+For the final step, we'll be typing some of the commands learned in CSE15L to verify that everything is working. Some commands you can run are == cd,  cd~ , ls, ls,-lat ==, etc..
 
 For example, if you type ls -lat and everything is set up according to this tutorial, your terminal should print something very similar to what is printed in the picture below.
 
