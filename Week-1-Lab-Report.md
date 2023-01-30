@@ -43,14 +43,14 @@ After typing in your password and hitting enter, you'll be brought into this bel
 ![Image](login.jpg)
 
 ## Part 3 - Testing Commands
-For the final step, we'll be typing some of the commands learned in CSE15L to verify that everything is working. Some commands you can run are <code> cd, cd~ , ls, ls,-lat </code>, etc..
+For the final step, we'll be typing some of the commands learned in CSE15L to verify that everything is working. Some commands you can run are **cd, cd~ , ls, ls,-lat**, etc..
 
-For example, if you type ls <code> -lat</code> and everything is set up according to this tutorial, your terminal should print something very similar to what is printed in the picture below. In this picture below, the command <code> ls -lat </code> prints out all the files in the system, including hidden files, ranked from when they were last modified.
+For example, if you type ls <code> -lat</code> and everything is set up according to this tutorial, your terminal should print something very similar to what is printed in the picture below. In this picture below, the command **ls -lat** prints out all the files in the system, including hidden files, ranked from when they were last modified.
 
 ![Image](command.jpg)
 
 
-Another couple of commands you could try are <code> pwd </code> and <code> cd </code> . The command <code> pwd </code> prints out the working directory and <code> cd </code> prints out the current directory in which you are in. The picture below shows both examples.
+Another couple of commands you could try are **pwd** and **cd** . The command **pwd** prints out the working directory and **cd** prints out the current directory in which you are in. The picture below shows both examples.
 
 ![Image](tester.jpg)
 
