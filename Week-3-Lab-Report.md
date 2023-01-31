@@ -68,7 +68,7 @@ The bug before and after code change can be seen below.
     }
                 
           
-    static void reverseInPlace(int[] arr) {
+   static void reverseInPlace(int[] arr) {
      for (int i = 0; i < arr.length / 2; i++) {
       int tempValue = arr[i];
       arr[i] = arr[arr.length - 1 - i];
