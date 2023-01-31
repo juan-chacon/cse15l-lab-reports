@@ -52,9 +52,7 @@ In this example above, we expect {3,2,3} and obtain {3,2,3}.
     
 The symptom, being the wrong result in the code, can be seen in the screenshot below if we follow the code from the first example in which we expect {3,2,1} but obtain {3,2,3} as seen in the terminal at the bottom of the picture.
 
-
-![Image](symptom2.jpg)
-
+![Image](symptom.jpg)
       
 Another test for this can be seen if we run the code in the second example. In the screenshot below we expect {3,2,3} from the reverseInPlace method and we obtain {3,2,3} from inputting {1,2,3}.
     
