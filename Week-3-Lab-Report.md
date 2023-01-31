@@ -34,7 +34,7 @@ A failure inducing input for the buggy program in this case would,
           System.out.println(input1[i]);
         }
         assertArrayEquals(new int[]{3,2,1}, input1);
-                                            </code>
+ </code>
  
  In this code, we expect to get {3,2,1} back in the array but instead we get {3,2,3}.
   
@@ -48,7 +48,7 @@ A failure inducing input for the buggy program in this case would,
           System.out.println(input1[i]);
         }
         assertArrayEquals(new int[]{3,2,3}, input1);
-                                            </code>                                   
+  </code>                                   
     
 In this example above, we expect {3,2,3} and obtain {3,2,3}.
     
@@ -62,14 +62,15 @@ Another test for this can be seen if we run the code in the second example. In t
 
 The bug before and after code change can be seen below. 
    
-   <code>
-   static void reverseInPlace(int[] arr) {
+  <code>
+   
+    static void reverseInPlace(int[] arr) {
     for(int i = 0; i < arr.length; i++) {
       arr[i] = arr[arr.length - i - 1];
      }
     }
                 
-                                  </code>      
+  </code>      
    
  <code>
   static void reverseInPlace(int[] arr) {
@@ -79,7 +80,7 @@ The bug before and after code change can be seen below.
       arr[arr.length - 1 - i] = tempValue;
       }
      }
-                                   </code>
+  </code>
 
 The bug in the previous code was that it would successfully change the first 2 values, if we were using {1,2,3} for example, however the last variable would not change. The reason for this is because it was using the arrays new values in the same array and not the original ones. 
 
