@@ -50,7 +50,7 @@ For example, if you type ls <code> -lat</code> and everything is set up accordin
 ![Image](command.jpg)
 
 
-Another couple of commands you could try are **cd** and **pwd** . The command **cd** lets you change into a specified directory and **pwd** prints out the current directory in which you are in. The picture below shows both examples in which we change into the wavelet directory and use **pwd* to show us which directory we are in.
+Another couple of commands you could try are **cd** and **pwd** . The command **cd** lets you change into a specified directory and **pwd** prints out the current directory in which you are in. The picture below shows both examples in which we change into the wavelet directory and use **pwd** to show us which directory we are in.
 
 ![Image](tester2.jpg)
 
