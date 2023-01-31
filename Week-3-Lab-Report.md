@@ -59,6 +59,27 @@ Another test for this can be seen if we run the code in the second example. In t
     
 ![Image](symptom2.jpg)    
 
+The before and after code change can be seen below. 
+    
+   static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length; i++) {
+      arr[i] = arr[arr.length - i - 1];
+     }
+    }
+              
+          
+    static void reverseInPlace(int[] arr) {
+     for (int i = 0; i < arr.length / 2; i++) {
+      int tempValue = arr[i];
+      arr[i] = arr[arr.length - 1 - i];
+      arr[arr.length - 1 - i] = tempValue;
+      }
+     }
+ 
+The bug in the previous code was that it would successfully change the first 2 values, if we were using {1,2,3} for example, however the last variable would not change. The reason for this is because it was using the arrays new values in the same array and not the original ones. 
+
+The way the new code addresses the bug is by simply switching the numbers in the array until the for loop reaches the middle of the given integer array. 
+          
 # Part 3
 
 Something I learned in these past two weeks was URL manipulation and how to use URL's in your code in java. It was also pretty interesting to learn how to start my own server and clone repositories from github onto my local pc and push them onto a server. 
