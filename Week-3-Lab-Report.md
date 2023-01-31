@@ -22,7 +22,42 @@ For this second screenshot, everything mentioned above for the first screenshot 
 
 # Part 2
 
+For this part of the lab, I'll be using the bug from the reverseInPlace method in the ArrayExamples java class.
 
+A failure inducing input for the buggy program in this case would,
+
+<code> public void testReverseInPlace() {
+        int[] input1 = {1,2,3};
+        ArrayExamples.reverseInPlace(input1);
+        for(int i = 0;i < input1.length;i++) {
+          System.out.println(input1[i]);
+        }
+        assertArrayEquals(new int[]{3,2,1}, input1);
+                                        </code>
+ 
+ In this code, we expect to get {3,2,1} back in the array but instead we get {3,2,3}.
+  
+ An input that doesn't induce a failure in this buggy code would be if we were to put 
+  
+  <code> public void testReverseInPlace() {
+        int[] input1 = {1,2,3};
+        ArrayExamples.reverseInPlace(input1);
+        for(int i = 0;i < input1.length;i++) {
+          System.out.println(input1[i]);
+        }
+        assertArrayEquals(new int[]{3,2,3}, input1);
+                                        </code>    
+    
+In this example above, we expect {3,2,3} and obtain {3,2,3}.
+    
+The symptom, being the wrong result in the code, can be seen in the screenshot below if we follow the code from the first example in which we expect {3,2,1} but obtain {3,2,3} as seen in the terminal at the bottom of the picture.
+
+![Image](symptom.jpg)
+    
+    
+Another test for this can be seen if we run the code in the second example. In the screenshot below we expect {3,2,3} from the reverseInPlace method and we obtain {3,2,3} from inputting {1,2,3}.
+    
+![Image](symptom2.jpg)    
 
 # Part 3
 
