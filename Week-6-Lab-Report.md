@@ -74,6 +74,6 @@ Another example of this command is ```grep -n "What" res.txt```
 
 The results would be 
 
-![Image]grep-n2.jpg
+![Image](grep-n2.jpg)
 
  
