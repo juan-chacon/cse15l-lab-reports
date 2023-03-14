@@ -43,14 +43,14 @@ After accessing the code, I fixed it by changing the variable name in a line of 
 
 The next set of keys I pressed here was ```<:><w><q>``` which let me exit the vim code editor and save the new changes I had made.
 
-# Step 6 - Run working tests
+# Step 5 - Run working tests
 
 After fixing the code, I ran the new tests by hitting ```<up><up><up><enter>``` on my keyboard as the command I needed to compile the code was in my history.
 I then ran the code by hitting ```<up><up><enter>``` as this command was also within my history.
 
 ![Image](newtest.jpg)
 
-# Step 7 - Commit and Push changes
+# Step 6 - Commit and Push changes
 
 The final step in this lab is to commit and push the changes into my github account which can be done by typing ```git add ListExamples.java```. After this, you type ```git commit m 'code fix' ```, and finally ```git push origin main```
 
