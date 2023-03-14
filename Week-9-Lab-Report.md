@@ -57,7 +57,7 @@
   
   After running the command, we can see that "Hello, World!" was inserted to the first line of the file.
   
-  ![Image](sedinsert2.jgp)
+  ![Image](sedinsert2.jpg)
   
   The next command being ran is ```sed '2iGoodbye!' written_2/travel_guides/berlitz1/WhatToLosAngeles.txt > output.txt```
   Which inserts Goodbye into the second line of the file.
